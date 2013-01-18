@@ -1,7 +1,7 @@
 {
   "name": "node-spoofmac",
-  "version": "0.0.1",
-  "description": "ERROR: No README.md file found!",
+  "version": "0.0.2",
+  "description": "A port of SpoofMAC for OSX to Node.js. Change your MAC address by $ sudo spoofmac en0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
