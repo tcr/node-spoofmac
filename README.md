@@ -3,7 +3,7 @@
 A very quick port of https://github.com/feross/SpoofMAC/ for OSX to Node.js.
 
     $ npm install -g spoofmac
-    $ spoofmac en0
+    $ sudo spoofmac en0
     Using random MAC address.
     MAC address for  en0 9b
     Changed en0 (h/w: 31) from 9b to 53.
