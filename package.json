@@ -6,8 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
-  "author": "",
+  "repository": "https://github.com/tcr/node-spoofmac",
+  "bin": {
+    "spoofmac": "index.js"
+  },
+  "author": "Tim Cameron Ryan",
   "license": "MIT",
   "dependencies": {
     "random-mac": "0.0.4"
