@@ -1,0 +1,15 @@
+{
+  "name": "node-spoofmac",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "random-mac": "0.0.4"
+  }
+}
